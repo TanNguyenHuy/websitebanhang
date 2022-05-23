@@ -1,0 +1,82 @@
+﻿@using CuaHangThucPham.Models
+@model IEnumerable<LoaiSanPham>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    //khoi tao control WebGrid
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 20);
+}
+
+<h2>Loại sản phẩm</h2>
+
+@grid.GetHtml(
+    tableStyle: "gridTable",
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "girdAltRow",
+    columns: grid.Columns(
+        grid.Column("MaLoaiSP", "Mã loại sản phẩm"),
+        grid.Column("TenLoai", "Tên loại sản phẩm"),
+        grid.Column("Icon", "Icon"),
+        grid.Column(format: p => @Html.ActionLink("Chỉnh sửa", "ChinhSua", new { id = p.MaLoaiSP })),
+        grid.Column(format: p => Html.ActionLink("Xoá", "Xoa", new { id = p.MaLoaiSP }))
+
+        )
+
+    )
+<a href="@Url.Action("TaoMoi","QuanLyLoaiSanPham")" class="TaoMoi">Thêm mới</a>
+@*css cho tung style cua table*@
+<style>
+    .gridTable {
+        width:100%;
+        border: 1px solid #808080;
+
+    }
+    .gridTable td {
+        border:1px solid #999999;
+    }
+    .gridHead {
+        background-color:green;
+    }
+    .gridHead>th>a {
+
+        color:white;
+
+    }
+    .gridFooter {
+        font-weight:bold;
+    }
+    .TaoMoi {
+        background: #333;
+        padding: 10px 1.5em;
+        border-radius: 7px;
+        -moz-border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -o-border-radius: 7px;
+        font-size: 1em;
+        color: #fff;
+        text-decoration: none;
+        display: block;
+        font-weight:600;
+        text-align: center;
+        width: 12%;
+        margin: 3em 3em 0 auto;
+
+    }
+    @*.gridRow {
+        color:white;
+        background-color:blueviolet;
+    }
+    .girdAltRow{
+        color:white;
+        background-color:orange;
+    }*@
+</style>
+<style>
+    .FooterAdmin {
+        display: none;
+    }
+</style>

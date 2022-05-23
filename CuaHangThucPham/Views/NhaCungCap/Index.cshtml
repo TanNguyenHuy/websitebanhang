@@ -1,0 +1,85 @@
+﻿@using CuaHangThucPham.Models
+@model IEnumerable<NhaCungCap>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    //khoi tao control WebGrid
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 20);
+}
+
+
+<h2>Nhà cung cấp</h2>
+
+@grid.GetHtml(
+    tableStyle: "gridTable",
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "girdAltRow",
+    columns: grid.Columns(
+        grid.Column("MaNCC", "Mã nhà cung cấp"),
+        grid.Column("TenNCC", "Tên nhà cung cấp"),
+        grid.Column("DiaChi", "Địa chỉ"),
+        grid.Column("Email", "Địa chỉ email"),
+        grid.Column("SoDienThoai", "Số điện thoại"),
+        grid.Column("Fax", "Số Fax"),
+        grid.Column(format: p => @Html.ActionLink("Chỉnh sửa", "ChinhSua", new { id = p.MaNCC })),
+        grid.Column(format: p => Html.ActionLink("Xoá", "Xoa", new { id = p.MaNCC }))
+
+        )
+
+    )
+<a href="@Url.Action("TaoMoi","NhaCungCap")" class="TaoMoi">Thêm mới</a>
+@*css cho tung style cua table*@
+<style>
+    .gridTable {
+        width:100%;
+        border: 1px solid #808080;
+
+    }
+    .gridTable td {
+        border:1px solid #999999;
+    }
+    .gridHead {
+        background-color:green;
+    }
+    .gridHead>th>a {
+
+        color:white;
+
+    }
+    .gridFooter {
+        font-weight:bold;
+    }
+    .TaoMoi {
+        background: #333;
+        padding: 10px 1.5em;
+        border-radius: 7px;
+        -moz-border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -o-border-radius: 7px;
+        font-size: 1em;
+        color: #fff;
+        text-decoration: none;
+        display: block;
+        font-weight:600;
+        text-align: center;
+        width: 12%;
+        margin: 3em 3em 0 auto;
+
+    }
+    @*.gridRow {
+        color:white;
+        background-color:blueviolet;
+    }
+    .girdAltRow{
+        color:white;
+        background-color:orange;
+    }*@
+</style>
+<style>
+    .FooterAdmin {
+        display: none;
+    }
+</style>

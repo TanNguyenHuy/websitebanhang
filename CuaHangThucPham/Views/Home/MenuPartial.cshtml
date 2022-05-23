@@ -1,0 +1,84 @@
+﻿@using CuaHangThucPham.Models;
+@model IEnumerable<SanPham>
+
+<head>
+    <title>Chào mừng bạn đến với N8 Store</title>
+    <link href="~/Content/cssjs/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <!-- jQuery (necessary JavaScript plugins) -->
+    <script type='text/javascript' src="~/Content/cssjs/js/jquery-1.11.1.min.js"></script>
+    <!-- Custom Theme files -->
+    <link href="~/Content/cssjs/css/style.css" rel='stylesheet' type='text/css' />
+    <!-- Custom Theme files -->
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Furnyish Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat|Raleway:400,200,300,500,600,700,800,900,100' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Aladin' rel='stylesheet' type='text/css'>
+    <!-- start menu -->
+    <link href="~/Content/cssjs/css/megamenu.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="~/Content/cssjs/js/megamenu.js"></script>
+    <script>$(document).ready(function () { $(".megamenu").megamenu(); });</script>
+    <script src="~/Content/cssjs/js/menu_jquery.js"></script>
+    <script src="~/Content/cssjs/js/simpleCart.min.js"></script>
+    <script src="~/Content/cssjs/js/responsiveslides.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+        // You can also use "$(window).load(function() {"
+        $(function () {
+            // Slideshow 1
+            $("#slider1").responsiveSlides({
+                auto: true,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+            });
+        });
+    </script>
+    <style>
+        .html {
+            background-image: linear-gradient(45deg, rgb(116, 122, 138, 0.5), rgb(107, 135, 227, 0.5)), url(https://lh3.googleusercontent.com/proxy/GBvkzUkR7pP8DR6DcpfQSushcOlGczG2gPw8kI2OJ-3bzfbIOCL-jiOyRqr7_gF9qNN7tn739NQFdd6gOV5MnJ-fRwAuR1UopkEJxSlWq6mB6O0dm5_92HlsMunOTjaitro);
+        }
+    </style>
+
+</head>
+
+<div class="mega_nav">
+    <div class="container">
+        <div class="menu_sec">
+            <ul class="megamenu skyblue">
+                <li class="active grid"><a class="color1" href="@Url.Action("Index","Home")">Trang chủ</a></li>
+
+                @foreach (var groupItem in Model.GroupBy(n => n.LoaiSanPham)) {
+                    if (groupItem.Key != null) {
+                        <li class="grid">
+                            <a class="color2" href="#">@groupItem.Key.TenLoai</a>
+                            <div class="megapanel">
+                                <div class="row">
+                                    <div class="col1">
+                                        <div class="h_nav">
+                                            <ul>
+                                                @foreach (var item in groupItem.GroupBy(n => n.NhaCungCap)) {
+                                                    if (item.Key != null) {
+                                                        <li><a href="@Url.Action("SanPham", "SanPham", new { @MaLoaiSP = groupItem.Key.MaLoaiSP, @MaNCC = item.Key.MaNCC })">@item.Key.TenNCC</a></li>
+                                                    }
+                                                }
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </li>
+                    }
+                }
+
+
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        </div>
+    </div>

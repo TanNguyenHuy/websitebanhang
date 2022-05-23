@@ -1,0 +1,81 @@
+﻿@using CuaHangThucPham.Models
+@model IEnumerable<ChiTietPhieuNhap>
+
+@{
+    ViewBag.Title = "LichSuPhieuNhap";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    //khoi tao control WebGrid
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 6);
+}
+
+<h2>Chi tiết phiếu nhập</h2>
+@*the hien du lieu thong qua control webGrid*@
+@grid.GetHtml(
+    tableStyle: "gridTable",
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "girdAltRow",
+    columns: grid.Columns(
+        grid.Column("MaChiTietPN", "Mã chi tiết phiếu nhập"),
+        grid.Column("MaPN", "Mã phiếu nhập"),
+        grid.Column("DonGiaNhap", "Đơn giá nhập"),
+        grid.Column("SoLuongNhap", "Số lượng nhập")
+        )
+
+    )
+<br />
+<br />
+<a href="@Url.Action("NhapHang","PhieuNhap")" class="action">Trở lại trang phiếu nhập</a>
+@*css cho tung style cua table*@
+<style>
+    .gridTable {
+        width:100%;
+        border: 1px solid #808080;
+
+    }
+    .gridTable td {
+        border:1px solid #999999;
+    }
+    .gridHead {
+        background-color:green;
+    }
+    .gridHead>th>a {
+
+        color:white;
+
+    }
+    .gridFooter {
+        font-weight:bold;
+    }
+    .action {
+        background: #333;
+        padding: 10px 1.5em;
+        border-radius: 7px;
+        -moz-border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -o-border-radius: 7px;
+        font-size: 1em;
+        color: #fff;
+        text-decoration: none;
+        display: block;
+        font-weight:600;
+        text-align: center;
+        width: 20%;
+    }
+    @*.gridRow {
+        color:white;
+        background-color:blueviolet;
+    }
+    .girdAltRow{
+        color:white;
+        background-color:orange;
+    }*@
+</style>
+<style>
+    .FooterAdmin {
+        display: none;
+    }
+</style>
+
+

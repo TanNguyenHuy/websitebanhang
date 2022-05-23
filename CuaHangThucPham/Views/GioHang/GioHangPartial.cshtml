@@ -1,0 +1,8 @@
+﻿@*dung viewbag dien the hien so luong va tong tien*@
+<div class="cart box_1">
+    <a href="@Url.Action("XemGioHang","GioHang")">
+        <h3> <span>@ViewBag.TongTien.ToString("#,##") VNĐ</span> (<span>@ViewBag.TongSoLuong</span> sp)<button class="w3view-cart" type="submit" name="submit" value=""><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></button></h3>
+    </a>
+    <p><a href="@Url.Action("XemGioHang","GioHang")" class="simpleCart_empty">Giỏ hàng</a></p>
+
+</div>

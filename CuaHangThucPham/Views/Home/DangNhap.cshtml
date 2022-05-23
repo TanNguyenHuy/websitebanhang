@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Layout/ProductLayout.cshtml";
+}
+
+<div class="login1">
+    <div class="container">
+        <h2>Đăng nhập</h2>
+
+        <div class="login-form-grids animated wow slideInUp" data-wow-delay=".5s">
+            @using (Html.BeginForm("DangNhap", "Home")) {
+                <input type="text" placeholder="Tên đăng nhập" required=" " name="txtTenDangNhap">
+                <input type="password" placeholder="Mật khẩu" required=" " name="txtMatKhau">
+                <input type="submit" value="Đăng nhập">
+                <h7 style="color:red;text-align:center;">@ViewBag.ThongBao</h7>
+            }
+        </div>
+        <h4>Thành viên mới?</h4>
+        <p><a href="@Url.Action("DangKy","Home")">Đăng ký tại đây</a>hoặc trở về <a href="@Url.Action("Index","Home")">Trang chủ<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
+    </div>
+</div>
+<style>
+    .login1 h2{
+        text-align: center;
+        color: #212121;
+        padding-bottom: .5em;
+        position: relative;
+        font-size: 2.5em;
+        text-transform: uppercase;
+    }
+    .login1 h2:after,{
+            content: '';
+            background: #3399cc;
+            height: 2px;
+            width: 15%;
+            position: absolute;
+            bottom: 0%;
+            left: 43%;
+        }
+    .login1 h4 {
+        margin: 2em 0 0.5em;
+        font-size: 1.5em;
+        color: #212121;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .login1 p {
+        font-size: 14px;
+        color: #999;
+        line-height: 1.8em;
+        margin: 0;
+        text-align: center;
+    }
+
+        .login1 p a {
+            color: #fe9126;
+            text-decoration: none;
+            font-size: 1.2em;
+            padding: 0 .5em;
+        }
+
+            .login1 p a:hover {
+                color: #212121;
+            }
+
+            .login1 p a span {
+                top: 0.1em;
+                font-size: .7em;
+                left: 0.3em;
+            }
+
+    .login1 {
+        padding: 5em 0;
+    }
+</style>
+

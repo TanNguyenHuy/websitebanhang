@@ -1,0 +1,17 @@
+﻿@using CuaHangThucPham.Models
+@model IEnumerable<SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+@{
+    IEnumerable<SanPham> lstSPM = ViewBag.ListSPM as IEnumerable<SanPham>;
+ }
+
+
+<div class="top-brands">
+    <div class="container">
+        @Html.Partial("~/Views/SanPham/SanPhamParital.cshtml", lstSPM);
+    </div>
+</div>

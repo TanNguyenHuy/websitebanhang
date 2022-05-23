@@ -1,0 +1,83 @@
+﻿@model IEnumerable<CuaHangThucPham.Models.DonDatHang>
+
+
+@{
+    ViewBag.Title = "DaGiaoDaThanhToan";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 20);
+
+}
+
+<h2>Quản lý đơn hàng (Danh sách đơn hàng đã hoàn thành)</h2>
+<br />
+@*tab quản lý các trạng thái của đơn hàng*@
+<ul class="nav nav-tabs">
+    <li role="presentation"><a href="@Url.Action("ChuaThanhToan","DonDatHang")">Chưa thành toán</a></li>
+    <li role="presentation"><a href="@Url.Action("ChuaGiao","DonDatHang")">Chưa giao và đã thanh toán</a></li>
+    <li role="presentation" class="active"><a href="@Url.Action("DaGiaoDaThanhToan","DonDatHang")">Đã giao và đã thanh toán</a></li>
+</ul>
+<br />
+
+@grid.GetHtml(
+    tableStyle: "gridTable",
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "girdAltRow",
+    columns: grid.Columns(
+        grid.Column("MaDDH", header: "Mã dơn hàng"),
+        grid.Column("MaKH", header: "Họ và tên khách hàng", format: p => p.MaKH != null ? p.KhachHang.TenKH : ""),
+        grid.Column("NgayDat", header: "Ngày đặt"),
+        grid.Column("TinhTrangGiaoHang", header: "Tình trạng giao hàng"),
+        grid.Column("NgayGiao", header: "Ngày giao"),
+        grid.Column("DaThanhToan", header: "Đã Thanh Toán"),
+        grid.Column("UuDai", header: "Ưu đãi"),
+        grid.Column("DaHuy", header: "Đã huỷ"),
+        grid.Column(format: p => Html.ActionLink("Duyệt đơn hàng", "DuyetDonHang", new { id = p.MaDDH }, new { @target = "_blank" }))
+
+        )
+
+    )
+<style>
+    .nav > li {
+        background:rgba(0,0,0,.5);
+    }
+    .divTable{
+        width:100%;
+        border: 1px solid #999999;
+    }
+    .divTable td{
+        border: 1px solid #999999;
+    }
+    .divTable a{
+        color:blue;
+
+    }
+    .gridTable {
+        width:100%;
+        border: 1px solid #808080;
+
+    }
+    .gridTable td {
+        border:1px solid #999999;
+    }
+    .gridHead {
+        background-color:green;
+    }
+    .gridHead>th>a {
+
+        color:white;
+
+    }
+    .gridFooter {
+        font-weight:bold;
+    }
+    @*.gridRow {
+        color:white;
+        background-color:blueviolet;
+    }
+    .girdAltRow{
+        color:white;
+        background-color:orange;
+    }*@
+</style>

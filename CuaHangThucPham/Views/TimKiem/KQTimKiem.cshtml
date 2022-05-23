@@ -1,0 +1,51 @@
+﻿@using CuaHangThucPham.Models
+@using PagedList.Mvc
+
+@model PagedList.IPagedList<SanPham>
+
+@{
+    ViewBag.Title = "KQTimKiem";
+    Layout = "~/Views/Layout/ProductLayout.cshtml";
+}
+
+<div class="col-md-4 products-left">
+
+</div>
+<div class="col-md-8 products-right">
+
+    <div class="agile_top_brands_grids">
+        @foreach (var item in Model.OrderBy(n => n.DonGia)) {
+            <div class="col-md-4 top_brand_left">
+                <div class="hover14 column">
+                    <div class="agile_top_brand_left_grid">
+                        <div class="agile_top_brand_left_grid1">
+                            <figure>
+                                <div class="snipcart-item block">
+                                    <div class="snipcart-thumb">
+                                        <a href="@Url.Action("XemChiTiet", "SanPham", new { id = item.MaSP })"><img width="400" height="200" title=" " alt=" " src="@Url.Content("~/hinhanh/" + item.HinhAnh)"></a>
+                                        <p>@item.TenSP</p>
+                                        <h4>@item.DonGia.Value.ToString("#,##") VND</h4>
+                                    </div>
+                                    <div class="snipcart-details top_brand_home_details">
+                                        <form action="@Url.Action("ThemGioHang", "GioHang", new { @MaSP = item.MaSP, @strURL = Request.Url.ToString() })" method="post">
+                                            <fieldset>
+                                                <input type="submit" name="submit" value="Thêm vào giỏ hàng" class="button">
+                                            </fieldset>
+                                        </form>
+                                    </div>
+                                </div>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        <div class="clearfix"> </div>
+    </div>
+
+    <div style="text-align:center;" class="dlink">
+        Trang @(Model.PageCount<Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+        @Html.PagedListPager(Model, page => Url.Action("SanPham", new { page = page, @sTuKhoa = ViewBag.TuKhoa }))
+
+    </div>
+

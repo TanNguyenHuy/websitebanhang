@@ -1,0 +1,443 @@
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll.config
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.pdb
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\PagedList.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\WebGrease.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.pdb
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\PagedList.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.dll
+C:\Users\tanng\source\repos\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll.config
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.rsp
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.rsp
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.AppContext.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Console.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Http.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.rsp
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\WebGrease.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.AssemblyReference.cache
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CoreCompileInputs.cache
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CopyComplete
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.dll
+E:\Đồ án Tích hợp\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.pdb
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.AssemblyReference.cache
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CoreCompileInputs.cache
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.pdb
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll.config
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.pdb
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe.config
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.rsp
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe.config
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.rsp
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.AppContext.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Console.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Http.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe.config
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.rsp
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\WebGrease.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.pdb
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.pdb
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.Mvc.dll
+D:\Do an\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.Mvc.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll.config
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.rsp
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.rsp
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.AppContext.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Console.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Http.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.rsp
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.Mvc.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\WebGrease.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.Mvc.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.pdb
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.AssemblyReference.cache
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CoreCompileInputs.cache
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CopyComplete
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.dll
+E:\Đồ án Tích hợp\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.pdb
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll.config
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CuaHangThucPham.pdb
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.Mvc.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\WebGrease.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.pdb
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\CaptchaMvc.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\PagedList.Mvc.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.dll
+C:\Users\tanng\OneDrive\Tài liệu\CuaHangThucPham2\CuaHangThucPham\CuaHangThucPham\CuaHangThucPham\obj\Debug\CuaHangThucPham.pdb

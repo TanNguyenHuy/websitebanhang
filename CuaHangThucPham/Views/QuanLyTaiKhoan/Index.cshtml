@@ -1,0 +1,70 @@
+﻿@using CuaHangThucPham.Models
+@model IEnumerable<ThanhVien>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    //khoi tao control WebGrid
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 20);
+}
+
+<h2>Thành viên </h2>
+
+@grid.GetHtml(
+    tableStyle: "gridTable",
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "girdAltRow",
+    columns: grid.Columns(
+        grid.Column("MaThanhVien", "Mã thành viên"),
+        grid.Column("TaiKhoan", "Tài khoản"),
+        grid.Column("HoTen", "Họ tên"),
+        grid.Column("DiaChi", "Địa chỉ"),
+        grid.Column("Email", "Email"),
+        grid.Column("SoDienThoai", "Số điện thoại"),
+        grid.Column("CauHoi", "Câu hỏi"),
+        grid.Column("CauTraLoi", "Câu trả lời"),
+        grid.Column("MaLoaiTV", "Mã loại thành viên"),
+        grid.Column(format: p => @Html.ActionLink("Chỉnh sửa", "ChinhSua", new { id = p.MaThanhVien })),
+        grid.Column(format: p => Html.ActionLink("Xoá", "Xoa", new { id = p.MaThanhVien }))
+
+        )
+
+    )
+@*css cho tung style cua table*@
+<style>
+    .gridTable {
+        width:100%;
+        border: 1px solid #808080;
+
+    }
+    .gridTable td {
+        border:1px solid #999999;
+    }
+    .gridHead {
+        background-color:green;
+    }
+    .gridHead>th>a {
+
+        color:white;
+
+    }
+    .gridFooter {
+        font-weight:bold;
+    }
+
+    @*.gridRow {
+        color:white;
+        background-color:blueviolet;
+    }
+    .girdAltRow{
+        color:white;
+        background-color:orange;
+    }*@
+</style>
+<style>
+    .FooterAdmin {
+        display: none;
+    }
+</style>

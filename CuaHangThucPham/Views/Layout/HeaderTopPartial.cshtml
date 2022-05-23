@@ -1,0 +1,24 @@
+﻿@using CuaHangThucPham.Models
+
+<div class="agileits_header">
+    <div class="container">
+        <div class="agile-login">
+            <ul>
+                @if (Session["TaiKhoan"] != null && Session["TaiKhoan"].ToString() != "") {
+                    ThanhVien tv = (ThanhVien)Session["TaiKhoan"];
+                    <li style="margin-bottom:10px; color:white">Chào @tv.HoTen</li>
+                    <li>@Html.ActionLink("Đăng Xuất", "DangXuat", "Home")</li>
+                }
+                else {
+                    <li><a href="@Url.Action("DangNhap", "Home")">Đăng nhập</a></li>
+                    <li><a href="@Url.Action("DangKy", "Home")">Đăng ký</a></li>
+
+                }
+
+            </ul>
+        </div>
+        @*chen partial view gio hang vao layout (tach gio hang sang 1 partial view moi)*@
+        @Html.Action("GioHangPartial", "GioHang")
+        <div class="clearfix"> </div>
+    </div>
+</div>
