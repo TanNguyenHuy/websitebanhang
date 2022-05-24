@@ -210,7 +210,12 @@ namespace CuaHangThucPham.Controllers
             }
             db.SaveChanges();
             Session["GioHang"] = null;
-            return RedirectToAction("XemGioHang");
+            return RedirectToAction("ThongTinMuaHang");
+        }
+        public ActionResult ThongTinMuaHang()
+        {
+
+            return View();
         }
     }
 }

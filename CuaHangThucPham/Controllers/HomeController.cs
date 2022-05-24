@@ -36,6 +36,7 @@ namespace CuaHangThucPham.Controllers
         [HttpPost]
         public ActionResult DangKy(ThanhVien tv)
         {
+            tv.MaLoaiTV = 4;
             ViewBag.CauHoi = new SelectList(LoadCauHoi());
             //kiểm tra captcha
             if (this.IsCaptchaValid("captcha is not valid")) {

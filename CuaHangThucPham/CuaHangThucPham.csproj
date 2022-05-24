@@ -653,6 +653,7 @@
     <Content Include="Views\Admin\View.cshtml" />
     <Content Include="Views\Home\LoiPhanQuyen.cshtml" />
     <Content Include="Views\QuanLyLoaiThanhVien\PhanQuyen.cshtml" />
+    <Content Include="Views\GioHang\ThongTinMuaHang.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

@@ -46,7 +46,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <li><a href="@Url.Action("Index","Home")">Trang chủ</a></li>
             <li class="active">Giỏ hàng</li>
         </ol>
-        @if (Model == null || Model.Count == 0) {<h2 style="color:#000">Giỏ hàng rỗng hoặc bạn đã mua thành công. Bạn có muốn mua tiếp? Hãy click <a style="color:cornflowerblue" href="@Url.Action("Index","Home")"> tại đây </a></h2>}
+        @if (Model == null || Model.Count == 0) {<h2 style="color:#000">Giỏ hàng rỗng. Bạn có muốn mua tiếp? Hãy click <a style="color:cornflowerblue" href="@Url.Action("Index","Home")"> tại đây </a></h2>}
         else {
 
 
